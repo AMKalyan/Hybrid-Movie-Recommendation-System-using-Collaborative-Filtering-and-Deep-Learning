@@ -1,4 +1,4 @@
-# 🎬 Hybrid Movie Recommendation System using Collaborative Filtering and Deep Learning
+# Hybrid Movie Recommendation System using Collaborative Filtering and Deep Learning
 
 ## 📚 Overview
 
